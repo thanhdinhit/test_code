@@ -83,7 +83,7 @@ function App() {
 
   return (
     <div style={{ maxWidth: 600, margin: '40px auto', fontFamily: 'sans-serif', padding: 20 }}>
-      <h2>🚀 Frontend Kết Nối Backend Render</h2>
+      <h2>🚀 Frontend Kết Nối Backend Render (Test)</h2>
 
       {/* Cấu hình URL */}
       <div style={{ marginBottom: 20 }}>
